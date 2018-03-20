@@ -12,7 +12,7 @@
  */
 public class Magpie2
 {
-	/**
+	/*
 	 * Get a default greeting 	
 	 * @return a greeting
 	 */
